@@ -1,0 +1,1415 @@
+[
+    {
+        "input": "Comment: I have taken my dog to this groomer for years and they always do an amazing job\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: They are very kind and patient with my dog, which is important because he can be quite anxious around new people\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomer takes their time to make sure my dog looks great and is always willing to answer any questions I have\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I would recommend this groomer to anyone!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: This is the best grooming salon I've ever been to! The staff is incredibly friendly and knowledgeable. They took great care of my dog, who has a lot of fur, and did an excellent job cleaning him up. My dog was relaxed and happy when I picked him up, which is a huge plus. I highly recommend this place!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I have been taking my dog to this groomer for a while now and I have always been impressed with the service. The groomers are skilled and patient, especially with my dog who can be quite nervous around new people. They take their time to make sure my dog looks great and never rush through the process. The prices are also very reasonable. I would definitely recommend this groomer to others!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I had a very poor experience at this grooming salon. The groomer was not very experienced and made several mistakes while grooming my dog. The fur was left all over my house and furniture. I called to express my concerns and was met with dismissiveness and arrogance. I will not be returning to this groomer.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I took my dog to this groomer for the first time and was very disappointed. The groomer was rushing through the process and did not seem to pay attention to detail. My dog came out with matted fur and dirty paws. I will not be returning to this groomer.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I have been taking my dog to this groomer for years, but I have recently started having issues with the service. The groomers seem to be in a hurry and do not seem to care about the quality of their work. My dog has come out with cuts and bruises on multiple occasions. I am considering finding a new groomer.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog is always super excited to visit this groomer. I always have a positive experience here!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I had a very negative experience at this grooming salon. The groomer was unprofessional and made my dog uncomfortable. I called to express my concerns and was met with hostility and rudeness. I will not be returning to this groomer.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I have been taking my dog to this groomer for years, but I have noticed a decline in the quality of service recently. The groomers seem to be less experienced and the grooming job is not as good as it used to be. I am considering finding a new groomer.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I took my dog to this groomer for the first time and was very impressed with the service. The groomer was very kind and patient with my dog, who can be quite anxious around new people. The groomer took their time to make sure my dog looked great and never rushed through the process. The prices were also very reasonable. I will definitely be returning to this groomer.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff were very friendly and welcoming. The groomer did an excellent job with my dog's fur, and he looked great when I picked him up. I would definitely recommend this grooming business to others.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I am very unhappy with the wait time at this establishment. I was waiting over an hour for my dog!\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The groomer was rushed and seemed to be bothered by my presence. My dog looked shaggy and unkempt when I picked him up.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The staff were friendly, but the groomer did not seem to pay attention to my requests. My dog came out with matted fur and dirty paws.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The staff were very friendly and welcoming. The groomer did an excellent job with my dog's fur, and he looked great when I picked him up. I would definitely recommend this grooming business to others.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff at this grooming salon are incredibly friendly and welcoming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog always looks and smells great after a visit to this grooming salon.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are very knowledgeable and skilled.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The prices are very reasonable for the high-quality service.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The shop is always clean and well-maintained.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: They offer a variety of services for dogs, including baths, haircuts, and nail trims.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog seems to enjoy going to the groomer, which is a good sign.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers take their time to ensure that my dog is comfortable and happy during the grooming process.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I would recommend this grooming salon to anyone looking for a reliable and professional groomer.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff always goes above and beyond to make sure my dog is taken care of.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog has never had an issue with any of the groomers here.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming salon is very convenient for me, as it is located near my home.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are very patient and understanding with my dog, which is important to me.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I appreciate the fact that the grooming salon uses high-quality products that are safe for my dog.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff always calls me to let me know when my dog is ready to be picked up.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming salon has a great reputation in the community.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I trust this grooming salon to take good care of my dog.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are very experienced and knowledgeable about dogs.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog always leaves the grooming salon looking and feeling great.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff is always willing to work with me to accommodate my needs.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming salon is very accommodating and flexible with scheduling appointments.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I feel confident that my dog is in good hands when I bring him to this grooming salon.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are very kind and gentle with my dog.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The shop is always welcoming and inviting, making it a pleasant experience for both me and my dog.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff at this grooming salon are incredibly friendly and welcoming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog always looks and smells great after a visit to this grooming salon.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are very knowledgeable and skilled.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The prices are very reasonable for the high-quality service.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The shop is always clean and well-maintained.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: They offer a variety of services for dogs, including baths, haircuts, and nail trims.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog seems to enjoy going to the groomer, which is a good sign.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers take their time to ensure that my dog is comfortable and happy during the grooming process.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I would recommend this grooming salon to anyone looking for a reliable and professional groomer.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff always goes above and beyond to make sure my dog is taken care of.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog has never had an issue with any of the groomers here.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming salon is very convenient for me, as it is located near my home.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are very patient and understanding with my dog, which is important to me.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I appreciate the fact that the grooming salon uses high-quality products that are safe for my dog.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff always calls me to let me know when my dog is ready to be picked up.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming salon has a great reputation in the community.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I trust this grooming salon to take good care of my dog.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are very experienced and knowledgeable about dogs.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog always leaves the grooming salon looking and feeling great.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff is always willing to work with me to accommodate my needs.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming salon is very accommodating and flexible with scheduling appointments.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I feel confident that my dog is in good hands when I bring him to this grooming salon.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are very kind and gentle with my dog.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The shop is always welcoming and inviting, making it a pleasant experience for both me and my dog.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff at this grooming salon are incredibly friendly and welcoming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog always looks and smells great after a visit to this grooming salon.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are very knowledgeable and skilled.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The prices are very reasonable for the high-quality service.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The shop is always clean and well-maintained.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: They offer a variety of services for dogs, including baths, haircuts, and nail trims.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog seems to enjoy going to the groomer, which is a good sign.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers take their time to ensure that my dog is comfortable and happy during the grooming process.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I would recommend this grooming salon to anyone looking for a reliable and professional groomer.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff always goes above and beyond to make sure my dog is taken care of.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog has never had an issue with any of the groomers here.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming salon is very convenient for me, as it is located near my home.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are very patient and understanding with my dog, which is important to me.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I appreciate the fact that the grooming salon uses high-quality products that are safe for my dog.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff always calls me to let me know when my dog is ready to be picked up.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming salon has a great reputation in the community.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I trust this grooming salon to take good care of my dog.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are very experienced and knowledgeable about dogs.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog always leaves the grooming salon looking and feeling great.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff is always willing to work with me to accommodate my needs.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming salon is very accommodating and flexible with scheduling appointments.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I feel confident that my dog is in good hands when I bring him to this grooming salon.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are very kind and gentle with my dog.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The shop is always welcoming and inviting, making it a pleasant experience for both me and my dog.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff at this grooming salon were not very friendly or welcoming.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog did not look or smell great after a visit to this grooming salon.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The groomers here were not knowledgeable or skilled.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The prices were too high for the low-quality service.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The shop was not clean or well-maintained.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: They did not offer a variety of services for dogs.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog seemed anxious and uncomfortable during the grooming process.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I would not recommend this grooming salon to anyone.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The staff did not go above and beyond to make sure my dog was taken care of.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog had an issue with one of the groomers here.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming salon was not convenient for me.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The groomers here were not patient or understanding with my dog.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I did not appreciate the use of low-quality products that could harm my dog.\nSultation:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The staff did not call me to let me know when my dog was ready to be picked up.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: This grooming salon does not have a good reputation in the community.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I do not trust this grooming salon to take good care of my dog.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The groomers here were not experienced or knowledgeable about dogs.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog did not leave the grooming salon looking or feeling great.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The staff was not willing to work with me to accommodate my needs.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming salon was not accommodating or flexible with scheduling appointments.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I did not feel confident that my dog was in good hands when I brought him to this grooming salon.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The groomers here were not kind or gentle with my dog.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The shop was not welcoming or inviting, making it a unpleasant experience for both me and my dog.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The groomers here are fantastic! My dog always comes out looking fabulous and smelling great. Highly recommend!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Wonderful service and super friendly staff. My dog is always happy to visit!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’ve tried several groomers in the area, but this one is the best. They really care about the pets and do an amazing job.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Excellent grooming service! My dog always looks perfect and I’m very satisfied with the care they receive.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m always impressed with how well they handle my dog. The grooming is top-notch and the staff is so caring.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: This grooming business is outstanding. They always take such good care of my dog and ensure he’s happy.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog loves coming here and so do I. The groomers are professional and the results are always great.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Great service, friendly staff, and my dog always leaves looking amazing. Highly recommend this place!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Fantastic grooming experience! The staff is very professional and my dog is always well taken care of.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m very happy with the grooming service. The staff is attentive and my dog always looks wonderful.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: This place is amazing! They treat my dog like royalty and the grooming is always perfect.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Excellent service every time. My dog is always happy and looks great after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are so skilled and kind. My dog always comes out looking and feeling great.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’ve had nothing but positive experiences with this groomer. They always do a fantastic job!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Wonderful experience as always. The groomers are professional, and my dog loves coming here.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I can’t say enough good things about this grooming business. They are consistently excellent and very caring.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog always comes out looking fabulous and the staff is so friendly. This is our go-to groomer.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Absolutely love this place! The groomers are amazing and my dog always leaves happy.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff here is fantastic. They always make sure my dog is comfortable and looks great after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: This grooming salon is the best! They always do a great job and my dog is always happy.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Great experience every time! The groomers are skilled and my dog always looks amazing.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff is so kind and professional. My dog looks great and is always well cared for.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: This place is amazing! My dog loves it here and always looks perfect after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Fantastic grooming service. My dog always comes out looking wonderful and happy.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Very happy with this grooming business. The staff is friendly and the grooming is always excellent.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog loves this place. The groomers are so caring and do a fantastic job every time.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I am so pleased with the service here. My dog always looks and feels great after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: This grooming salon is top-notch. The staff is professional and my dog is always happy.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Great grooming service! The staff is friendly and my dog always looks great after each visit.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m very satisfied with this grooming business. They always do a fantastic job and are very professional.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog always looks fantastic after grooming. The staff here is the best!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Excellent service and very caring groomers. My dog always looks wonderful and is well taken care of.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I highly recommend this grooming salon. The staff is great and my dog always leaves happy and looking great.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: This place is wonderful! The groomers are skilled and my dog always looks amazing after his grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Always a great experience here. The staff is friendly and my dog looks fantastic every time.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I love bringing my dog here. The grooming is excellent and the staff is so kind.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Fantastic grooming service! My dog is always happy and looks great after each visit.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff here is amazing. They always do a great job and my dog is very happy after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m always pleased with the grooming service. My dog looks great and the staff is very professional.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Great grooming business! The staff is so friendly and my dog always looks and feels great.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m very satisfied with this grooming service. The groomers are attentive and my dog always looks fabulous.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming here is exceptional. My dog always comes out looking fantastic and the staff is great.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Very happy with this grooming salon. The staff is friendly and my dog always looks great.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: This place does a fantastic job every time. My dog always looks and feels great after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Excellent grooming service. The staff is professional and my dog always leaves happy.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m very pleased with the grooming here. My dog always looks amazing and the staff is wonderful.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: This grooming business is outstanding. My dog always looks perfect and is very well cared for.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The service here is excellent. My dog always leaves looking fantastic and is very happy.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m always impressed with how well they groom my dog. The staff is friendly and professional.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Fantastic experience every time. My dog always comes out looking great and feeling happy.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers are so skilled and caring. My dog always looks and feels amazing after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: This is the best grooming salon I’ve been to. My dog always looks perfect and the staff is so nice.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I love this grooming place! My dog always looks great and the staff is very friendly.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Excellent service!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I was extremely disappointed with the grooming service. My dog came home looking worse than when I dropped him off. There were uneven cuts and the staff seemed indifferent to my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was rushed and poorly done. My dog had several nicks and was visibly stressed. I won’t be coming back.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Horrible experience. The groomer was rough with my dog and didn’t seem to know what they were doing. My dog came out looking messy and anxious.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog had a terrible grooming experience here. The staff was unprofessional and my dog ended up with several cuts. Very unhappy with the service.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I was not satisfied with the grooming. My dog came home with mats still in her fur, and she seemed very distressed. I’m looking for a new groomer.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming job was far from satisfactory. My dog was left with uneven fur and seemed very uncomfortable. The staff didn’t seem to care about my complaints.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very disappointing experience. The groomer was unprofessional, and my dog looked terrible after the grooming. I won’t be returning.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming service was rushed and my dog was left with a poor haircut. The staff was rude when I expressed my dissatisfaction.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog had a bad experience here. The groomers were not gentle, and my dog ended up with several scratches. Not happy with the service at all.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I’m very unhappy with the grooming results. The staff was not attentive, and my dog looked like he had been through a rough experience. Definitely won’t return.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was subpar, and my dog seemed very stressed after the visit. The staff was unhelpful when I tried to address my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I had a terrible experience at this grooming salon. My dog was not treated well, and the grooming was poorly done. Very disappointed.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming service left a lot to be desired. My dog was not properly bathed or brushed, and the staff seemed indifferent to my feedback.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Extremely unhappy with the grooming. My dog had a rough time and came out looking worse than before. The staff was unprofessional and didn’t handle my concerns well.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was rushed, and my dog ended up with uneven fur and visible stress. The staff was not helpful when I complained.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very poor grooming job. My dog had several mats left in her fur, and the staff was not apologetic or helpful when I addressed the issue.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog was treated poorly and came home with a bad haircut. The groomers didn’t seem to care about the quality of their work.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was a disaster. My dog was left with uneven cuts and appeared very distressed. I’m not happy with the service at all.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The service here was not acceptable. My dog’s fur was not properly groomed, and he was clearly uncomfortable after the visit.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I had a bad experience with the grooming. The staff was unprofessional, and my dog was not handled with care. The grooming was poorly done.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Extremely dissatisfied with the grooming. My dog was not properly cleaned or styled, and the staff did not address my concerns satisfactorily.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming job was sloppy, and my dog was visibly upset. The staff was unresponsive to my concerns, and I will not be coming back.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog came back from grooming with cuts and an uneven coat. The staff seemed indifferent and unprofessional.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I’m very unhappy with the grooming service. My dog looked terrible, and the staff didn’t seem to care about the quality of their work.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming experience was terrible. My dog was left with a bad haircut and seemed very stressed. The staff was not helpful in addressing my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very poor grooming service. My dog had a rough time, and the staff was not professional or attentive. I won’t be returning.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog was not treated well, and the grooming was poorly executed. The staff was unhelpful when I tried to discuss the issues.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming left a lot to be desired. My dog had a bad haircut, and the staff didn’t seem to care about my feedback.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I was very disappointed with the grooming service. My dog came back looking worse, and the staff was not responsive to my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was rushed and sloppy. My dog ended up with several nicks and looked very uncomfortable. I’m not happy with the service.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The staff was unprofessional, and my dog’s grooming was poorly done. There were uneven cuts and my dog seemed distressed.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog came out of the grooming session looking terrible. The staff did not handle him with care, and I’m very unhappy with the results.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming service was a disaster. My dog was left with an uneven coat, and the staff was not responsive to my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very disappointed with how my dog was treated. The grooming was poorly done, and the staff was not professional.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I’m unhappy with the grooming results. My dog looked messy and stressed, and the staff did not address my concerns effectively.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming job was subpar. My dog ended up with uneven fur and seemed very anxious. The staff was unhelpful when I tried to talk about it.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming service was very disappointing. My dog was not properly groomed, and the staff did not handle my complaints well.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Horrible experience at this grooming salon. My dog came out looking worse, and the staff was unprofessional and rude.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was rushed and poorly done. My dog had visible cuts and seemed very uncomfortable. I won’t be bringing him back.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Extremely dissatisfied with the grooming service. My dog was not handled well, and the results were far from what I expected.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog had a terrible experience at this grooming place. The staff was not attentive, and my dog looked worse after the grooming.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very unhappy with the grooming results. My dog looked like he had been poorly treated, and the staff was unresponsive to my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was done very poorly. My dog had an uneven cut and seemed stressed. The staff was not helpful in resolving the issues.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I had a terrible time at this groomer.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I had a negative experience with this grooming salon. The staff was rude, and my dog was not treated with care. The grooming was not up to standard.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog came back from grooming with cuts and an uneven coat. The staff did not address my concerns and seemed indifferent.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming service was substandard. My dog was not properly groomed, and the staff was unprofessional. I’m not satisfied with the results.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very disappointed with this grooming business. My dog’s coat was uneven, and he seemed very uncomfortable after the visit.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was rushed and poorly done. My dog had visible mats and looked distressed. The staff did not address my complaints effectively.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Horrible service. My dog came out looking terrible with several cuts. The staff was unprofessional and did not handle the situation well.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Extremely unsatisfied with the grooming service. My dog was not groomed properly, and the staff was unhelpful when I expressed my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was poorly executed, and my dog seemed very stressed. The staff did not take my feedback seriously.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog had a very bad experience here. The grooming was done in a hurry, and my dog ended up with uneven fur and cuts.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The service was very disappointing. My dog’s grooming was not handled properly, and the staff was not professional.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I’m very unhappy with how my dog was treated. The grooming was subpar, and the staff did not address my concerns or complaints.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming job was terrible. My dog looked messy and had cuts. The staff was rude and did not handle my feedback well.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very poor grooming service. My dog was not treated with care, and the staff seemed uninterested in resolving the issues.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming left my dog with an uneven coat and several nicks. The staff was unresponsive and unprofessional.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Extremely dissatisfied with this grooming service. My dog was not groomed properly, and the staff did not handle my complaints effectively.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming experience was awful. My dog came out looking terrible, and the staff did not address my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very unhappy with the grooming. My dog had several cuts, and the staff was not professional or caring. I will not be returning.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The service was rushed, and my dog looked worse after the grooming. The staff did not handle my complaints properly.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I had a bad experience at this grooming salon. The grooming was poorly done, and my dog seemed very stressed. The staff was unhelpful.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was a disaster. My dog had uneven fur and visible cuts. The staff was unprofessional and did not handle my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Extremely disappointed with the grooming. My dog looked terrible, and the staff was rude when I complained.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming job was poorly executed. My dog had visible mats and cuts. The staff was indifferent to my feedback.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I’m very unhappy with the grooming service. My dog was not treated well, and the staff was unprofessional and unhelpful.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I always have a great experience with this grooming salon. The staff is friendly, and my dog always looks fantastic after each visit.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are exceptional! They handle my dog with such care and always do a wonderful job.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m so happy with the grooming service. My dog always looks amazing, and the staff is incredibly attentive.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: This place is wonderful. The groomers are professional and always make my dog look perfect.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I love bringing my dog here. The staff is very kind and does a great job every time.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Excellent grooming service! My dog always comes home looking and feeling great. Highly recommend this salon.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers are so skilled and caring. My dog is always happy and looks fabulous after each grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m always impressed with the grooming results. My dog looks amazing, and the staff is very friendly and professional.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: This grooming salon is top-notch. The staff is attentive, and my dog always looks fantastic.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Fantastic grooming experience! My dog is always happy and well-groomed. The staff is amazing.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff at this grooming salon is very professional and caring. My dog always looks great and is well taken care of.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Great experience every time! The groomers are friendly, and my dog always comes home looking wonderful.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I highly recommend this grooming business. The staff is fantastic, and my dog always looks amazing after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Wonderful service! The groomers are gentle and do a superb job. My dog always leaves happy and looking great.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: My dog loves coming here! The grooming is always top-notch, and the staff is so friendly and caring.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: This grooming salon is fantastic. The groomers are attentive and skilled, and my dog always looks and feels great.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m very pleased with the grooming service. My dog looks wonderful, and the staff is very professional.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Excellent grooming job! My dog always looks perfect, and the staff is very friendly and accommodating.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The service here is amazing. The groomers are very skilled, and my dog always looks fantastic after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m thrilled with how my dog looks after grooming. The staff is wonderful and takes great care of my pet.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Fantastic grooming salon! My dog always comes out looking great and the staff is always so welcoming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m so happy with this grooming service. The groomers are attentive and my dog always looks amazing.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The staff here is excellent. They handle my dog with care and always do a great job with the grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’ve been bringing my dog here for years and am always satisfied. The grooming is consistent and well done.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Wonderful grooming experience! The staff is professional, and my dog always leaves looking great.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I highly recommend this grooming salon. My dog always looks fantastic, and the staff is incredibly friendly.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming here is top-quality. The staff is skilled and my dog always looks wonderful after each visit.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Great service and fantastic results! My dog always looks and feels great after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m so pleased with this grooming salon. The staff is kind, and my dog always comes out looking perfect.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are amazing! They do a wonderful job, and my dog always looks and feels great.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: This place does an excellent job with grooming. My dog always looks fantastic, and the staff is very professional.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m very satisfied with the grooming service. The staff is friendly, and my dog always looks great.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Fantastic grooming experience. My dog looks great, and the staff is so attentive and caring.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming here is always done perfectly. My dog is treated with great care, and the staff is excellent.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I love this grooming salon. The staff is so friendly, and my dog always looks amazing after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Excellent grooming service! The staff is very skilled, and my dog always comes home looking fantastic.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers here are fantastic. They always do a great job, and my dog looks wonderful after each visit.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Wonderful grooming experience. The staff is caring, and my dog always looks great after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m extremely happy with the grooming service. My dog looks fantastic, and the staff is so friendly and professional.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Great experience! The groomers are very skilled, and my dog always looks and feels great after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m so satisfied with the grooming here. The staff is fantastic, and my dog always looks amazing.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming service is exceptional. My dog is always well-groomed, and the staff is very caring.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Wonderful grooming salon. The staff is friendly and professional, and my dog always looks perfect.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m thrilled with the grooming results. The staff is excellent, and my dog always looks fantastic after each visit.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Fantastic grooming experience! My dog is always treated well and looks great after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I love how my dog looks after grooming here. The staff is so professional and friendly.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming service is top-quality. My dog always comes home looking and feeling wonderful.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m very pleased with this grooming salon. The staff is attentive and my dog always looks amazing.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The groomers are fantastic! They always do a great job, and my dog is always happy after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Wonderful experience every time! The staff is so kind, and my dog always looks great after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m always happy with the grooming results. The staff is professional, and my dog looks fantastic.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Excellent grooming service! My dog always looks perfect, and the staff is very friendly and professional.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming here is always top-notch. The staff is skilled and my dog always looks and feels great.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’m very satisfied with the grooming. The staff is excellent, and my dog always looks wonderful.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Fantastic job every time! The staff is caring and professional, and my dog always looks great after grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I love the grooming service here. The staff is friendly, and my dog always comes home looking perfect.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Wonderful grooming experience. My dog looks fantastic, and the staff is so attentive and skilled.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: The grooming service is exceptional. My dog always looks amazing, and the staff is very professional.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: Great grooming experience! The staff is friendly, and my dog always looks fantastic after each visit.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Comment: I’ve had several issues with this grooming service. My dog has come home with cuts, and the grooming quality has declined. I’m very disappointed.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The last few visits have been terrible. My dog was returned with uneven fur and seemed distressed. The staff didn’t seem to care.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very unhappy with the grooming. My dog came back with visible matting and was clearly uncomfortable. The staff was unhelpful when I complained.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: This grooming salon has gone downhill. The staff seems rushed and careless, and my dog’s grooming was subpar.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I had a bad experience here. The groomers were rude and my dog was clearly distressed. The grooming job was also very poor.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Extremely dissatisfied with this grooming service. My dog came home with cuts, and the grooming was not up to standard. Will not return.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was rushed and poorly done. My dog looked worse than before, and the staff was unresponsive to my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog had a terrible experience at this grooming salon. The staff was unprofessional, and the grooming was sloppy.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I’m very disappointed with the service. My dog was returned with an uneven coat and seemed very anxious.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was not up to standard. My dog came home with cuts, and the staff did not address my complaints satisfactorily.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The quality of grooming at this salon has declined. My dog was not properly groomed and appeared distressed.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Terrible experience! My dog was returned with an uneven coat and seemed uncomfortable. The staff was not helpful.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I had a negative experience with this grooming business. The staff was unprofessional, and my dog’s grooming was poorly done.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very unhappy with the grooming service. My dog looked worse after the grooming and the staff didn’t address my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was poorly executed. My dog had visible mats and cuts, and the staff was unhelpful when I complained.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog’s grooming was rushed and not thorough. The staff seemed indifferent to the quality of the service provided.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I’m very disappointed. The grooming was uneven, and my dog appeared stressed and uncomfortable after the visit.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: This grooming salon did a poor job. My dog was returned with cuts, and the staff was not responsive to my complaints.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Horrible grooming experience. My dog came back with an uneven coat, and the staff was unprofessional and dismissive.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Extremely dissatisfied with the service. My dog was not groomed properly and seemed very anxious. The staff didn’t care.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very poor grooming. My dog had visible matting and cuts. The staff did not address my feedback or concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming service here was substandard. My dog was not treated well, and the staff was unhelpful and unprofessional.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog’s grooming was poorly done. The staff seemed rushed and did not address the issues I pointed out.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I had a terrible experience at this grooming salon. My dog was returned with cuts and an uneven coat, and the staff was rude.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very unhappy with the results. My dog was not groomed properly and appeared stressed. The staff didn’t handle the situation well.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was done in a rush. My dog came back with an uneven coat and cuts, and the staff was not helpful.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I’m extremely disappointed with this grooming service. The staff was unprofessional, and my dog’s grooming was poorly executed.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming here was inadequate. My dog was not properly groomed, and the staff was dismissive of my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog came home with cuts and an uneven coat. The staff seemed uninterested in providing quality service.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Poor grooming service. My dog was returned with mats and an uneven coat. The staff was unprofessional and unresponsive.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very disappointed with the grooming results. My dog looked terrible, and the staff did not address my feedback appropriately.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The quality of grooming was very poor. My dog had visible cuts and the staff was not caring or professional.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Horrible experience. My dog was returned with an uneven coat and the staff was rude when I raised my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was rushed and poorly done. My dog came back with visible mats, and the staff was unhelpful.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Extremely dissatisfied. My dog had an uneven coat and cuts, and the staff did not address my complaints effectively.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming here was subpar. My dog looked worse after the visit, and the staff was unprofessional.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog was not groomed properly, and the staff seemed indifferent to the issues. I will not be returning.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very poor grooming experience. My dog came back with cuts and an uneven coat, and the staff was not responsive.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was poorly executed. My dog looked terrible, and the staff did not handle my complaints well.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I’m very disappointed with this grooming salon. My dog was not properly groomed, and the staff was unhelpful.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was rushed, and my dog appeared stressed and uncomfortable. The staff did not seem to care.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Terrible service! My dog came home with cuts, and the grooming was not satisfactory. The staff was dismissive.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I had a very negative experience. The grooming was poor, and my dog seemed very anxious. The staff was not professional.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming service was below standard. My dog had visible mats and cuts, and the staff was unresponsive to my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Extremely unhappy with this grooming salon. My dog looked awful, and the staff was rude when I complained.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog’s grooming was rushed and poorly done. The staff did not handle the situation well, and my dog was clearly distressed.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was not up to par. My dog came back with cuts and an uneven coat. The staff was unprofessional.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very disappointed. My dog’s grooming was terrible, and the staff seemed indifferent to the quality of their work.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The service here has declined. My dog was not groomed properly, and the staff was not helpful with my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Poor experience with this grooming salon. My dog came home with cuts, and the grooming was sloppy. The staff was rude.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was rushed and poorly executed. My dog appeared distressed, and the staff was unresponsive.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I am very unhappy with the grooming results. My dog was not properly groomed, and the staff did not address my complaints effectively.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Horrible grooming experience. My dog came home with an uneven coat and visible cuts. The staff was unhelpful and rude.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Extremely dissatisfied. The grooming was poorly done, and my dog was clearly uncomfortable. The staff was not caring.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The quality of grooming was terrible. My dog had visible mats and cuts, and the staff did not handle my concerns well.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Very poor service. My dog was not groomed properly, and the staff seemed indifferent to the quality of their work.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: My dog’s grooming was very disappointing. The staff was unprofessional, and my dog looked worse after the visit.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: The grooming was rushed and substandard. My dog came home with cuts and an uneven coat. The staff did not respond to my complaints.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: I had a very negative experience. My dog was returned with cuts and an uneven coat, and the staff was rude.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Comment: Terrible grooming service. My dog came back with an uneven coat and visible cuts. The staff was not helpful or professional.\nSatisfaction:\n",
+        "output": "0"
+    }
+    
+]
