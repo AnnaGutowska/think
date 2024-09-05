@@ -1,0 +1,466 @@
+[
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Long wait times.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This is the best grooming salon I've ever been to! The staff is incredibly friendly and knowledgeable. They took great care of my dog, who has a lot of fur, and did an excellent job cleaning him up. My dog was relaxed and happy when I picked him up, which is a huge plus. I highly recommend this place!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I have been taking my dog to this groomer for a while now and I have always been impressed with the service. The groomers are skilled and patient, especially with my dog who can be quite nervous around new people. They take their time to make sure my dog looks great and never rush through the process. The prices are also very reasonable. I would definitely recommend this groomer to others!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The team at this grooming salon is fantastic! They always do a wonderful job with my dog's coat, and my dog seems to really enjoy their company. The environment is clean and welcoming. I trust them completely with my pet's grooming needs.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment:  Please lower the prices.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment:  Please go back to lowered prices.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I've been bringing my dog here for years, and I couldn't be happier. The groomers are attentive and professional. My dog always looks amazing and is clearly comfortable with them. Highly recommend this place to anyone looking for top-notch grooming services!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This grooming salon is amazing! The staff are friendly, and they always make sure my dog looks perfect. They handle my anxious dog with such care and patience. It's a relief to know my pet is in good hands.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a wonderful experience at this grooming salon. The groomers were very attentive and made my dog look great. The service was prompt, and the facility was very clean. I will definitely be coming back.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Excellent grooming service! The staff is courteous and they really know how to handle dogs. My dog always comes home looking fabulous and happy. I can't recommend them enough!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: My dog always has a great experience at this grooming salon. The groomers are friendly, and the grooming is always top-notch. I appreciate their attention to detail and the care they show my pet.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming team here is exceptional. They always do a thorough job, and my dog always looks fantastic. The staff is very knowledgeable and kind. Highly recommend to all dog owners!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Fantastic grooming service! They did a superb job on my dog's coat and were very attentive to his needs. The salon is clean and inviting. I will definitely return for future grooming sessions.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a great experience at this dog grooming salon. The staff was very professional and made sure my dog was comfortable throughout the process. My dog looked amazing after the grooming session.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This is my go-to grooming place for my dog. The staff is incredibly skilled and friendly. They take such great care of my pet and always do a fantastic job. Highly recommend!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I am always impressed with the grooming service here. They are very gentle with my dog and always do an excellent job. The place is clean, and the staff is very professional.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Wonderful grooming experience! The staff is attentive and really cares about my dog's well-being. My dog looks great and is always happy after a visit. Definitely a five-star service!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This grooming salon exceeded my expectations. The groomers were professional, and my dog was well taken care of. The results were fantastic, and I appreciate the attention to detail.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I am extremely pleased with the grooming service here. The staff is friendly and skilled, and they always make my dog look fantastic. I wouldn't trust my dog to anyone else!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: No suggestions.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Great experience at this grooming salon. The staff is wonderful, and they did a great job with my dog's grooming. The atmosphere is warm and welcoming. I highly recommend this place!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I’ve taken my dog to several groomers, but this one stands out. The staff is very professional, and they handle my dog with great care. The results are always excellent, and my dog seems very comfortable there.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I am thoroughly impressed with this grooming service. The staff is friendly and experienced, and they always do a fantastic job with my dog's grooming. I highly recommend them to all dog owners!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This grooming salon is top-notch. The groomers are skilled and caring. My dog always comes out looking great, and the staff is always friendly. I will definitely keep bringing my dog here.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Excellent service and fantastic results! The groomers at this salon are very professional and kind to my dog. I am always happy with the outcome and would highly recommend them.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I have been bringing my dog to this grooming salon for years and have always been satisfied with the service. The staff is friendly, and they always do a great job. My dog loves coming here!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a very positive experience at this grooming salon. The groomers were attentive and took great care of my dog. The salon is clean, and the staff is professional. Highly recommend!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This is the best grooming salon I've found! The staff is wonderful, and they always do an amazing job with my dog's grooming. My dog is always happy and looks fantastic after each visit.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The service at this grooming salon is excellent. The groomers are very skilled.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a very poor experience at this grooming salon. The groomer was not very experienced and made several mistakes while grooming my dog. The fur was left all over my house and furniture. I called to express my concerns and was met with dismissiveness and arrogance. I will not be returning to this groomer.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I took my dog to this groomer for the first time and was very disappointed. The groomer was rushing through the process and did not seem to pay attention to detail. My dog came out with matted fur and dirty paws. I will not be returning to this groomer.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming service was awful. My dog was returned with uneven fur and seemed stressed. The staff was unhelpful when I raised my concerns. Definitely not coming back.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I am very unhappy with this grooming salon. The staff was rude and did not handle my dog with care. The grooming was poorly done, and my dog had patches of untrimmed fur. I will not be recommending this place.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: My experience here was disappointing. The groomer seemed inexperienced and left my dog looking worse than before. The salon was also dirty, which made me uncomfortable.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I regret bringing my dog to this salon. The grooming was done hastily and poorly. My dog had mats and tangles after the session. The staff was also unresponsive to my feedback.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Terrible service! The groomer was late and seemed rushed. My dog’s haircut was uneven, and I noticed that the grooming tools weren’t cleaned properly. Very dissatisfied.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a horrible experience here. The groomer cut my dog’s ear by accident and didn’t even apologize. The service was careless, and my dog was visibly stressed.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This grooming salon did a poor job on my dog. The staff seemed disinterested and the grooming results were far from satisfactory. My dog came out looking unkempt.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I am very unhappy with the grooming service. My dog was not treated well, and the grooming was sloppy. The staff did not seem to care about the quality of their work.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The service here was not up to standard. My dog was returned with untrimmed fur and seemed distressed. The salon was noisy and chaotic. Not a place I’d return to.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a terrible experience at this grooming salon. The staff was rude, and my dog came out with a poor haircut and was visibly upset. I won’t be coming back.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Extremely disappointed with the grooming service. The groomer didn’t follow my instructions and left my dog looking worse than before. The staff was also not very friendly.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming here was subpar. My dog was not bathed properly and the haircut was uneven. The staff seemed indifferent to my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I do not recommend this grooming salon. The groomer seemed rushed and my dog came out with a poor haircut. The staff was unprofessional and dismissive.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: My visit here was a disappointment. The grooming was incomplete, and my dog was left with tangles. The staff didn’t address my concerns properly.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming service was not good. My dog was returned with an uneven haircut and seemed anxious. The staff was not helpful when I complained.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a bad experience with this grooming salon. The groomer was inexperienced and did a poor job. My dog had mats and the overall service was below expectations.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Very unhappy with the grooming. My dog was not handled well, and the groomer left patches of uncut fur. The staff was also not very responsive to feedback.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming service was a letdown. My dog looked worse after the grooming session, and the staff didn’t seem to care about the quality of their work.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a terrible experience at this grooming salon. The staff was unprofessional, and my dog was treated poorly. The grooming results were very unsatisfactory.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Extremely disappointed with this grooming salon. My dog was returned with an uneven cut and seemed very stressed. The staff didn’t address my concerns adequately.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Customer Service was fine.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The service at this salon was substandard. My dog’s grooming was incomplete and the staff was not accommodating. I will not be returning.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a very bad experience with this grooming service. The groomer was late, and my dog was not handled properly. The end result was a poorly groomed dog and an unhappy customer.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: My visit to this grooming salon was a disaster. The staff was unprofessional, and my dog was not groomed well. The whole experience was frustrating and disappointing.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming service was terrible. My dog was returned with untrimmed fur and seemed very anxious. The staff did not handle my concerns well at all.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I am very dissatisfied with this grooming salon. The groomer was rude and did not listen to my instructions. My dog was left with a poor haircut and seemed very stressed.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I would not recommend this grooming salon. The grooming was poorly done, and my dog had mats and tangles after the session. The staff was unhelpful and dismissive.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This grooming salon was a disappointment. The staff was not friendly, and the grooming was done hastily. My dog was left looking worse than before.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Very unhappy with the grooming service here. My dog was returned with an uneven haircut and seemed very stressed. The staff did not seem to care about the quality of their work.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming experience was awful. My dog was left with patches of untrimmed fur, and the staff was unprofessional. I won’t be returning.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Horrible service! My dog was not groomed properly, and the staff seemed uninterested in providing a good service. My dog was returned with an uneven cut and appeared stressed.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming salon was a letdown. The groomer was rough with my dog, and the grooming was poorly done. I’m very disappointed and will not be coming back.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a very negative experience with this grooming service. The staff was unhelpful, and my dog was returned with a bad haircut. The whole process was frustrating.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming at this salon was very disappointing. My dog was not handled well, and the grooming was incomplete. The staff did not address my concerns properly.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: My experience here was quite poor. The grooming was done hastily, and my dog was left with tangles. The staff was not accommodating or friendly.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I am very unhappy with the grooming service. My dog was returned with a rough and uneven cut. The staff was indifferent to my complaints and did not offer any solutions.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming service was not satisfactory. My dog was treated poorly, and the grooming was done poorly. I am very disappointed and will not be returning.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a terrible experience at this grooming salon. The staff was unprofessional, and my dog was returned with an uneven haircut. The service was very disappointing.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming service here was awful. My dog was not groomed properly and seemed very stressed. The staff did not address my concerns in a satisfactory manner.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a negative experience with this grooming salon. The groomer was rough with my dog, and the grooming was subpar. The staff was not helpful when I raised my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Extremely poor grooming service. My dog was not groomed properly, and the staff was unresponsive to my concerns. I would not recommend this place.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Very disappointed with the grooming here. My dog was returned with untrimmed fur and appeared anxious. The staff did not seem to care about the quality of the grooming.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This grooming salon was a letdown. My dog’s grooming was incomplete and uneven. The staff was not very friendly or helpful when I expressed my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a bad experience with this grooming service. The groomer did not listen to my instructions, and my dog was returned with a poor haircut. The staff was unhelpful and unprofessional.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming service was very disappointing. My dog was left with a messy and uneven cut. The staff did not handle my concerns well and seemed disinterested.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a very negative experience with this salon. The grooming was poorly done, and my dog seemed very stressed. The staff was not responsive to my feedback.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I am extremely dissatisfied with this grooming service. The staff was unprofessional, and my dog was not groomed properly. The whole experience was frustrating.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Horrible grooming service. My dog was returned with an uneven cut and seemed very anxious. The staff was indifferent and did not address my concerns.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming here was subpar. My dog was not groomed well, and the staff did not handle my concerns properly. I will not be returning to this salon.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Very disappointed with this grooming salon. My dog was returned with a poor haircut and seemed very stressed. The staff did not address my concerns in a satisfactory manner.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a terrible experience with this grooming salon. The groomer was unskilled, and my dog was returned with an uneven cut. The staff was unresponsive to my feedback.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming service was a letdown. My dog was returned with patches of untrimmed fur, and the staff did not handle my concerns properly. I will not be coming back.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I had a very poor experience at this grooming salon. The staff was unprofessional and did not groom my dog properly. The whole process was frustrating and disappointing.\nSatisfaction:\n",
+        "output": "0"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: There was still a person however we arrived very late.  We had no problems with checking in.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This is the best grooming salon I've ever been to! The staff is incredibly friendly and knowledgeable. They took great care of my dog, who has a lot of fur, and did an excellent job cleaning him up. My dog was relaxed and happy when I picked him up, which is a huge plus. I highly recommend this place!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I’ve been bringing my dog here for years, and I’m always impressed by the quality of service. The groomers are attentive and make sure my dog is comfortable throughout the process. Highly recommended!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The staff at this grooming salon is amazing! They are so gentle and caring with my dog, and the grooming is always top-notch. My dog looks and feels great every time we leave.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: adequate to the price. It was fine.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I’m thrilled with the grooming service here. The groomers are skilled and patient, and my dog always looks fantastic after each visit. The salon is clean and welcoming, which makes a big difference.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Excellent grooming service! My dog always comes out looking fantastic, and the staff is so friendly. They really care about the pets and their owners. I wouldn’t go anywhere else.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This grooming salon is outstanding. The groomers are professional and thorough, and my dog always leaves looking and smelling great. I’m very happy with the service here.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I’ve had great experiences every time I’ve brought my dog here. The groomers are so kind and attentive. They take their time to ensure my dog is well taken care of and comfortable.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: What a wonderful grooming salon! The staff is friendly and professional, and they always do an amazing job with my dog. The results are consistently excellent.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I’m so pleased with the grooming service at this salon. My dog looks fantastic every time, and the groomers are always patient and gentle. Highly recommended for anyone looking for quality grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This place is great! The staff is knowledgeable and friendly, and they always make my dog feel comfortable. The grooming is always done perfectly.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I’ve been bringing my dog to this salon for months now, and I’m consistently impressed with the service. The staff is fantastic, and my dog always looks beautiful after a grooming session.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Fantastic grooming service! My dog always looks and smells great, and the staff is incredibly friendly. They really know how to handle dogs with care and expertise.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The groomers here are amazing. They always do a fantastic job with my dog and make sure he’s comfortable throughout the grooming process. I wouldn’t go anywhere else.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I’m so happy with the grooming service at this salon. The staff is professional and caring, and my dog always looks wonderful after a visit. I highly recommend them.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This grooming salon is fantastic. The staff is very friendly and professional, and they always do an excellent job with my dog. I appreciate their attention to detail.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I always have a great experience at this grooming salon. The groomers are wonderful, and my dog always looks amazing after his appointment. I highly recommend this place.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming service here is top-notch. The staff is so kind and professional, and my dog always leaves looking fantastic. I’m very happy with the service.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I’m consistently impressed with the grooming service at this salon. The staff is friendly, and they do an amazing job with my dog every time. Highly recommended!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: Excellent grooming service! My dog always looks great, and the staff is so friendly and professional. I trust them completely with my dog’s grooming needs.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I’m very happy with the grooming service at this salon. The staff is skilled and attentive, and my dog always looks fantastic after his grooming. Highly recommend!\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This grooming salon is wonderful. The staff is caring and professional, and they always do a fantastic job with my dog. The results are consistently excellent.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I’m very pleased with the grooming service here. The groomers are friendly, and my dog always looks great after his appointment. The salon is clean and welcoming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: For the most part they are very nice.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This grooming salon is fantastic. The staff is professional and attentive, and they always do an amazing job with my dog. I wouldn’t take my dog anywhere else.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I’m extremely satisfied with the grooming service at this salon. The groomers are skilled and always take great care of my dog. The results are always wonderful.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: The grooming service here is exceptional. The staff is friendly and professional, and my dog always looks fantastic after a visit. I’m very happy with the service.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: it was fine.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I always have a positive experience at this grooming salon. The staff is attentive and my dog always looks great after his grooming. Highly recommended for quality service.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: This is a wonderful grooming salon. The staff is caring and professional, and my dog always looks and feels great after a grooming.\nSatisfaction:\n",
+        "output": "1"
+    },
+    {
+        "input": "Extract the satisfaction from the comment. Return simple 1 for satisfied customer or 0 for unsatisfied.\nComment: I did not need to deal with customer service on my last visit which was nice.\nSatisfaction:\n",
+        "output": "1"
+    }
+]
